@@ -7,7 +7,7 @@
 //   final BuildContext theContext;
 
 //   AuthLogInEvent({required this.theContext});
-// }//
+// }////
 
 // final class AuthSignupEvet extends AuthEvent {
 //   final BuildContext theContext;
