@@ -1,0 +1,194 @@
+{
+    "selectShop": "سيلكت شوب", 
+    "resetPassword": "إعادة تعيين كلمة المرور", 
+    "enterEmailToResetOne": "أدخل بريدك الإلكتروني لإعادة تعيين", 
+    "enterEmailToResetTwo": "كلمة المرور الخاصة بك", 
+    "email": "البريد الإلكتروني", 
+    "phoneNum": "رقم الهاتف", 
+    "sendCode": "إرسال الرمز", 
+    "backToSignIn": "العودة إلى تسجيل الدخول", 
+    "otpCodeSended": "تم إرسال رمز المصادقة إلى", 
+    "newPassword": "كلمة المرور الجديده", 
+    "password": "كلمة المرور", 
+
+    "confirmNewPassword": "تاكيد كلمة المرور", 
+    "confirm": "تاكيد", 
+    "noDataLikeThis":"no data", 
+    
+    "userAgrement": "أوافق على جميع الشروط وسياسة الخصوصية والرسوم", 
+    "signUp": "أنشئ حسابك", 
+    "orByUsing": "أو بإستخدام", 
+    "youHaveAccount": "هل لديك حساب ؟ تسجيل الدخول", 
+    "welcomeToSelectShop": "مرحباً بك في متجر سيليكت شوب", 
+    "forgotPassword": "نسيت كلمة المرور؟", 
+    "signIn": "تسجيل دخول", 
+    "youDontHaveAccount": "ليس لديك حساب؟إنشاء حساب ", 
+
+
+
+
+    
+    "userName": "الاسم", 
+    "userEmail": "mhli.ouutlook.sa@gmail.com", 
+    "homePage": "الرئسيه", 
+    "products": "المنتجات", 
+    "tradeMark": "العلامات التجاريه", 
+    "specialproducts": "منتجات مميزه", 
+    "favourts": "المفضله", 
+    "mycart": "عربتي", 
+    "orders": "الطلبات", 
+    "personalPage": "المستخدم", 
+    "suppourt": "الدعم", 
+    "contactUs": "تواصل معنا", 
+    "signInSuccess": "تم تسجيل الدخول بنجاح", 
+    "signInWelcome": "اهلا بعودتك", 
+    "signUpSuccess": "تم تسجيل الحساب بنجاح", 
+    "signOut": "تسجيل خروج",
+    
+    
+
+    "show_all": "عرض الكل", 
+    "search": "ابحث", 
+    "theNew": "جديد", 
+    
+    "thebestSeller": "الافضل مبيعا", 
+    "theLakta": "لقطه", 
+    "theDiscaount": "خصم", 
+
+    
+
+    
+
+    "most_wanted": "الاكثر طلبا", 
+    "limitedOffers": "العروض المحدودة", 
+    "lowToHighPrice": "السعر من الأعلى للأقل ", 
+
+
+
+    "allCategoris": "كل التصنيفات ", 
+    "category": "التصنيف",
+    "categorys": "التصنيفات", 
+    "description": "الوصف", 
+    "theColor": "اللون", 
+    "quantity": "الكمية", 
+    "showAll": "عرض الكل",
+    "searchYourProduct": "ابحث عن منتجك", 
+    "aed": "درهم",
+    "shopNow": "تسوق الان",
+    "shipmentAllUAE":"شحن لجميع انحاء الامارات", 
+    "fastShipment":"شحن سريع", 
+    "paymentOnRecive":"الدفع عند الاستلام", 
+    "freeReturn":"اعاده مجانيه", 
+    "earnFreePoints":"احصل علي نقاط, و خصومات", 
+    "brand": "البراند",
+    "brandDetails": "تفاصيل البراند",
+    "checkOut": "اطلب",
+    "comments": "التعليقات",
+
+
+    
+    "deliverTo": "توصيل الي",
+    "location": "الموقع",
+    "cartDetails": "تفاصيل السله",
+    "paymentMethod": "وسيلة الدفع",
+    "doYouHaveCopons": "هل لديك كوبونات خصم",
+    "enterCoponCode": "ادخل رمز الكوبون",
+    "price": "السعر",
+    "taxes": "الضريبه",
+    "deliveryPrice": "رسوم التوصيل",
+    "totalPrice": "اجمالي السعر",
+    "payWithCart": "ادفع بالبطاقة",
+
+
+
+
+ 
+
+
+    "error": "خطاء",
+    "checkNetwork": "الرجاء تفحص الانترنت لديك", 
+
+    
+
+
+
+    "editUser":"تعديل الملف الشخصي", 
+    "addLocation":"المواقع",
+    "changeLanguage":"تغير اللغه", 
+    "notificationSettings":"اعدادات الاشعارات", 
+    "helpCenter":"مركز المساعده",
+    "accountSettings":"اعدادت الحساب", 
+
+
+    
+
+    "addNewLocation": "اضافة موقع",
+    "theArea": "المنطقة",
+    "enterTheArea": "ادخل المنطقة",
+    "emirate": "الإمارة",
+    "choseEmairate": "اختر الإمارة",
+    "building": "رقم المبنى",
+    "enterBuilding": "ادخل معلومات المبنى",
+    "theStreet": "الشارع",
+    "enterTheStreet": "ادخل الشارع",
+    "postCode": "الرمز البريدي",
+    "enterPostCode": "ادخل الرمز البريدي",
+    "apprtment": "الشقة",
+    "enterApprtment": "ادخل رقم الشقة",
+    "saveLocationAs": "احفظ الموقع كـ",
+    "home": "المنزل",
+    "work": "العمل",
+    "other": "أخرى",
+    "saveLocation": "حفظ الموقع", 
+
+
+
+
+    "trackOrder": "تتبع الطلب",
+    "orderStage": "مرحلة الطلب : ",
+    "orderPlaced": "تم تقديم الطلب",
+    "orderPlacedMessage": "تم تقديم طلبك",
+    "processing": "جاري المعالجة",
+    "processingMessage": "طلبك ينتظر التأكيد",
+    "orderConfirmed": "تم تأكيد الطلب",
+    "orderConfirmedMessage": "تم تأكيد طلبك",
+    "shipped": "تم الشحن",
+    "shippedMessage": "تم شحن طلبك",
+    "onTheWay": "في الطريق",
+    "onTheWayMessage": "مندوب التوصيل في الطريق لتسليم طلبك",
+    "delivered": "تم التسليم",
+
+
+
+
+    "created_at": "تم الإنشاء في",
+    "name": "الاسم",
+    "stats": "إحصائيات",
+    "total": "المجموع",
+
+
+
+
+
+    "mobileNumber": "رقم الموبايل",
+    "fullName": "الاسم الكامل",
+    "address": "العنوان",
+    "profilePicture": "صورة البروفايل",
+    "changeProfilePicture": "تغيير صورة البروفايل",
+
+
+
+
+
+
+
+
+    "unKnownError":"خطاء غير معروف"
+
+
+
+  }
+
+
+
+  

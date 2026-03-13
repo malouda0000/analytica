@@ -1,0 +1,190 @@
+{
+    "selectShop":"select shop", 
+    "resetPassword": "reset password", 
+    "enterEmailToResetOne": "enter your email to reset", 
+    "enterEmailToResetTwo": "your password", 
+    "email": "email", 
+    "phoneNum": "phone number", 
+    "sendCode": "send code", 
+    "backToSignIn": "back to signin", 
+    "otpCodeSended": "otp code is sended to", 
+    "newPassword": "new password", 
+    "password": "password", 
+
+    "confirmNewPassword": "confirm new password", 
+    "confirm": "confirm", 
+    "noDataLikeThis":"no data like this",
+    
+    "userAgrement": "I agree to all terms, privacy policy and fees", 
+    "signUp": "sign Up", 
+    "orByUsing": "or by using", 
+    "youHaveAccount": "you have account? sign in", 
+    "welcomeToSelectShop": "welcome to select shop", 
+    "forgotPassword": "forgot password?", 
+    "signIn": "sign In", 
+    "youDontHaveAccount": "you have don't have account? create one", 
+
+
+
+
+    
+    "userName": "name", 
+    "userEmail": "mhli.ouutlook.sa@gmail.com", 
+    "homePage": "home", 
+    "products": "products", 
+    "tradeMark": "trad marks", 
+    "specialproducts": "special products", 
+    "favourts": "favourts", 
+    "mycart": "my cart", 
+    "orders": "orders", 
+    "personalPage": "personal", 
+    "suppourt": "suppourt", 
+    "contactUs": "contact us", 
+    "signInSuccess": "sign successfully", 
+    "signInWelcome": "welcome back", 
+    "signUpSuccess": "hopes you good experence", 
+    "signOut": "sign out",
+    
+    
+    
+    "show_all": "show all", 
+    "search": "search", 
+    "theNew": "new", 
+    "thebestSeller": "best seller", 
+    "theLakta": "lakta", 
+    "theDiscaount": "discaount", 
+
+
+    "most_wanted": "most wanted", 
+    "limitedOffers": "limited offers", 
+    "lowToHighPrice": "low to hight price", 
+
+
+
+    "allCategoris": "all catigory ", 
+    "category": "category", 
+    "categorys": "categorys", 
+    "description": "description", 
+    "theColor": "color", 
+    "quantity": "Quantity", 
+    "showAll": "show all",
+    "searchYourProduct": "search your product", 
+    "aed": "AED",
+    "shopNow": "shop now",
+    "shipmentAllUAE":"Shipment for all UAE", 
+    "fastShipment":"fast shipment", 
+    "paymentOnRecive":"payment on recive", 
+    "freeReturn":"free return", 
+    "earnFreePoints":"earn free ponints", 
+    "brand": "brand",
+    "brandDetails": "brnad details",
+    "checkOut": "checkOut",
+    "comments": "comments",
+
+
+    
+    "deliverTo": "delever to",
+    "location": "location",
+    "cartDetails": "cart details",
+    "paymentMethod": "payment method",
+    "doYouHaveCopons": "do you have copons",
+    "enterCoponCode": "enter copon code",
+    "price": "price",
+    "taxes": "taxes",
+    "deliveryPrice": "delevery price",
+    "totalPrice": "total price",
+    "payWithCart": "Pay with Card",
+
+    
+
+
+
+
+
+
+    "error": "error",
+    "checkNetwork": "please check your network", 
+
+
+
+
+    "editUser":"edit personal profile", 
+    "addLocation":"add location",
+    "changeLanguage":"change language", 
+    "notificationSettings":"notifications settings", 
+    "helpCenter":"help center",
+    "accountSettings":"account settings", 
+
+
+    
+
+    "addNewLocation": "add location",
+    "theArea":"the area", 
+    "enterTheArea":"enter the area", 
+    "emirate":"Emirate",
+    "choseEmairate":"chose Emairate",
+    "building":"building no", 
+    "enterBuilding":"enter building info", 
+    "theStreet":"the street", 
+    "enterTheStreet":"enter the street", 
+    "postCode":"POST code",
+    "enterPostCode":"enter POST code",
+    "apprtment":"appartment",
+    "enterApprtment":"enter appartment no",
+    "saveLocationAs":"save the location as", 
+    "home":"Home",
+    "work":"Work", 
+    "other":"Other", 
+    "saveLocation":"save location",
+
+
+
+
+    "trackOrder": "Track Order",
+    "orderStage": "order stage : ",
+    "orderPlaced": "Order Placed",
+    "orderPlacedMessage": "Your order has been placed",
+    "processing": "Processing",
+    "processingMessage": "Your order is waiting for confirmation",
+    "orderConfirmed": "Order confirmed",
+    "orderConfirmedMessage": "Your order has confirmed",
+    "shipped": "Shipped",
+    "shippedMessage": "Your order is Shipped",
+    "onTheWay": "On the way",
+    "onTheWayMessage": "Our delivery executive is on the way to deliver your item",
+    "delivered": "Delivered",
+
+
+
+
+    "created_at": "Created at",
+    "name": "Name",
+    "stats": "Stats",
+    "total": "Total",
+
+
+
+
+
+    "mobileNumber": "Mobile Number",
+    "fullName": "Full Name",
+    "address": "Address",
+    "profilePicture": "Profile Picture",
+    "changeProfilePicture": "Change Profile Picture",
+
+
+
+
+
+
+
+
+    "unKnownError":"unKnown Error !!!"
+
+
+
+    
+  
+}
+
+  
